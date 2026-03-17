@@ -5,6 +5,8 @@ import java.util.Map;
  * Finds two numbers in the array that add up to a specific target,
  * and returns their indices.
  * 
+ * https://leetcode.com/problems/two-sum/
+ * 
  * @param nums   the input array of integers
  * @param target the target sum we need to achieve
  * @return an array containing the indices of the two numbers
